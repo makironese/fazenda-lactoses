@@ -38,3 +38,8 @@ footer{
     background-color: #738d38;
     color: aliceblue;
 }
+#contato{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+}

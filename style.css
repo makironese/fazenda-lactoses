@@ -34,3 +34,7 @@ div{
     grid-template-columns: 50% 50%;
     background-color: rgba(109, 163, 63, 0.9);
 }
+footer{
+    background-color: #424f23;
+    color: aliceblue;
+}

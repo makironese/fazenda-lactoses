@@ -31,5 +31,6 @@ div{
 }
         .div-imagens{
             display: grid;
-            grid-template-columns: 70% 30%;
-        }
+    grid-template-columns: 70% 30%;
+    background-color: rgba(109, 163, 63, 0.9);
+}

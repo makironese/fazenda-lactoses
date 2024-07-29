@@ -1,9 +1,35 @@
-{ 
-    margin: 20;
-    padding: 20;
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
-header {
-    background-image: url(./);
-    background-size: 100%;
+header{
+    background-color: #424f23;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px;
 }
+body{
+    background-image: url("imagens/landwirtschaftsgemüsefeld-84090367.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+}
+html{
+    height: 100%;
+}
+div{
+    padding: 30px;
+}
+.imagens {
+    width: 10%;
+}
+.coelhogigante{
+    width: 8%;
+}
+        .div-imagens{
+            display: grid;
+            grid-template-columns: 70% 30%;
+        }
